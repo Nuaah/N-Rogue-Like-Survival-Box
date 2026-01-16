@@ -1,0 +1,8 @@
+{
+  "item": "nroguelikesurvivalbox:cactus_needle_projectile",
+  "specials" : [
+    {
+      "name" : "cactus_counter" , "value" : "2"
+    }
+  ]
+}

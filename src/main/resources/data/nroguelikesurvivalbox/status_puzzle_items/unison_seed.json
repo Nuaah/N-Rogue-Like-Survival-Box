@@ -1,0 +1,16 @@
+{
+  "item": "nroguelikesurvivalbox:stone_eye",
+  "slotBonus" : [
+    {
+      "key": {
+        "1": {
+          "name": "seed_grow"
+        }
+      },
+      "pattern" : [
+        "0",
+        "1"
+      ]
+    }
+  ]
+}

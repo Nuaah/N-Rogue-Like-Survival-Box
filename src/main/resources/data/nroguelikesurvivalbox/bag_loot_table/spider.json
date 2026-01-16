@@ -1,0 +1,12 @@
+{
+  "entity": "minecraft:spider",
+  "pools": [
+    {
+      "condition": "night",
+      "level" : 5,
+      "entries": [
+        { "id": "nroguelikesurvivalbox:poison_fang", "min": 1, "max": 2, "weight": 10 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity": "minecraft:zombie",
+  "pools": [
+    {
+      "condition": "night",
+      "level" : 5,
+      "entries": [
+        { "id": "nroguelikesurvivalbox:meat_bone", "min": 1, "max": 2, "weight": 10 }
+      ]
+    },
+    {
+      "condition": "night",
+      "level" : 20,
+      "entries": [
+        { "id": "nroguelikesurvivalbox:lump_of_rotten_flesh", "min": 1, "max": 2, "weight": 10 }
+      ]
+    }
+  ]
+}

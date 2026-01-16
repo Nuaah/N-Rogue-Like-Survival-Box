@@ -1,0 +1,25 @@
+{
+  "item": "nroguelikesurvivalbox:green_dynamite",
+  "effects": [
+    {
+      "name": "attack", "value" : 3
+    },
+    {
+      "name": "attack_knockback", "value" : 3
+    }
+  ],
+  "slotBonus" : [
+    {
+      "key": {
+        "1": {
+          "name": "creeper_delete"
+        }
+      },
+      "pattern" : [
+        " 1 ",
+        "101",
+        " 1 "
+      ]
+    }
+  ]
+}

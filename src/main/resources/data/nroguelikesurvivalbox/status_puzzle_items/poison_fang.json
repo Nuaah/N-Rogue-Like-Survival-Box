@@ -1,0 +1,8 @@
+{
+  "item": "nroguelikesurvivalbox:poison_fang",
+  "specials" : [
+    {
+      "name" : "poison_fang_attack"
+    }
+  ]
+}

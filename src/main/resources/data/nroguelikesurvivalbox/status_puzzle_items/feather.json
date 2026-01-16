@@ -1,0 +1,8 @@
+{
+  "item": "minecraft:feather",
+  "effects": [
+    {
+      "name": "movement_speed", "value" : 1
+    }
+  ]
+}

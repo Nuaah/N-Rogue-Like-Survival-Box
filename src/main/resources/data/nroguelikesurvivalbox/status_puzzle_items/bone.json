@@ -1,0 +1,8 @@
+{
+  "item": "minecraft:bone",
+  "effects": [
+    {
+      "name": "armor", "value" : 1
+    }
+  ]
+}

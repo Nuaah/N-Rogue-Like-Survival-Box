@@ -1,0 +1,8 @@
+{
+  "item": "nroguelikesurvivalbox:stone_arrowhead",
+  "effects": [
+    {
+      "name": "attack", "value" : 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "entity": "minecraft:creeper",
+  "pools": [
+    {
+      "condition": "night",
+      "level" : 10,
+      "entries": [
+        { "id": "nroguelikesurvivalbox:green_dynamite", "min": 1, "max": 2, "weight": 10 }
+      ]
+    }
+  ]
+}

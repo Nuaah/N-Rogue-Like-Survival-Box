@@ -1,0 +1,12 @@
+{
+  "entity": "minecraft:enderman",
+  "pools": [
+    {
+      "condition": "night",
+      "level" : 10,
+      "entries": [
+        { "id": "nroguelikesurvivalbox:unison_seed", "min": 1, "max": 2, "weight": 10 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "item": "nroguelikesurvivalbox:stone_eye",
+  "effects": [
+    {
+      "name": "movement_speed", "value" : 3
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nroguelikesurvivalbox:item/cactus_needle_projectile"
+  }
+}

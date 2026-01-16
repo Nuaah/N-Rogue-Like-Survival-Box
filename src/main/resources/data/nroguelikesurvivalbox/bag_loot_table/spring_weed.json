@@ -1,0 +1,12 @@
+{
+  "entity": "nroguelikesurvivalbox:spring_weed",
+  "pools": [
+    {
+      "condition": "night",
+      "level" : 5,
+      "entries": [
+        { "id": "nroguelikesurvivalbox:wood_ring", "min": 1, "max": 1, "weight": 10 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "item": "nroguelikesurvivalbox:meat_bone",
+  "specials" : [
+    {
+      "name" : "meat_countup","value" : 0.1
+    }
+  ]
+}
